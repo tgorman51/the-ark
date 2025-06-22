@@ -1,0 +1,31 @@
+MODELS
+Space Shuttle
+Amint3D
+www.amint.lv
+https://assetstore.unity.com/packages/3d/vehicles/space/space-shuttle-34972
+
+Sci Fi Doors
+MASH Virtual
+www.mashvirtual.com
+https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-doors-162876
+
+Space Station Kit
+Kenney
+https://kenney.nl/assets/space-station-kit
+
+Modular Sci-Fi Corridor
+MagixBox
+www.shakiroslann.com/
+https://assetstore.unity.com/packages/3d/environments/sci-fi/modular-sci-fi-corridor-142811
+
+Free Space Ships
+1MAFX
+www.artstation.com/mgepm
+https://assetstore.unity.com/packages/3d/free-space-ships-37562
+
+
+SHADERS
+character effects (shaders)
+codeDog0
+game-dev-noob.itch.io/
+https://assetstore.unity.com/packages/vfx/shaders/character-effects-shaders-304307
