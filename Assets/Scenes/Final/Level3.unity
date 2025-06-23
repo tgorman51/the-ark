@@ -185,12 +185,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8786466014603738758, guid: 66e9ead16811ee645ae98d0e738a9727, type: 3}
       propertyPath: triggeredObjects.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8786466014603738758, guid: 66e9ead16811ee645ae98d0e738a9727, type: 3}
       propertyPath: 'triggeredObjects.Array.data[0]'
       value: 
-      objectReference: {fileID: 83784511}
+      objectReference: {fileID: 959833635}
     - target: {fileID: 8786466014603738758, guid: 66e9ead16811ee645ae98d0e738a9727, type: 3}
       propertyPath: 'triggeredObjects.Array.data[1]'
       value: 
@@ -1590,12 +1590,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8786466014603738758, guid: 66e9ead16811ee645ae98d0e738a9727, type: 3}
       propertyPath: triggeredObjects.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8786466014603738758, guid: 66e9ead16811ee645ae98d0e738a9727, type: 3}
       propertyPath: 'triggeredObjects.Array.data[0]'
       value: 
-      objectReference: {fileID: 959833635}
+      objectReference: {fileID: 1220112141}
     - target: {fileID: 8786466014603738758, guid: 66e9ead16811ee645ae98d0e738a9727, type: 3}
       propertyPath: 'triggeredObjects.Array.data[1]'
       value: 
@@ -2229,12 +2229,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8786466014603738758, guid: 66e9ead16811ee645ae98d0e738a9727, type: 3}
       propertyPath: triggeredObjects.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8786466014603738758, guid: 66e9ead16811ee645ae98d0e738a9727, type: 3}
       propertyPath: 'triggeredObjects.Array.data[0]'
       value: 
-      objectReference: {fileID: 1220112141}
+      objectReference: {fileID: 1409108811}
     - target: {fileID: 8786466014603738758, guid: 66e9ead16811ee645ae98d0e738a9727, type: 3}
       propertyPath: 'triggeredObjects.Array.data[1]'
       value: 
@@ -2343,12 +2343,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8786466014603738758, guid: 66e9ead16811ee645ae98d0e738a9727, type: 3}
       propertyPath: triggeredObjects.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8786466014603738758, guid: 66e9ead16811ee645ae98d0e738a9727, type: 3}
       propertyPath: 'triggeredObjects.Array.data[0]'
       value: 
-      objectReference: {fileID: 1409108811}
+      objectReference: {fileID: 314933416}
     - target: {fileID: 8786466014603738758, guid: 66e9ead16811ee645ae98d0e738a9727, type: 3}
       propertyPath: 'triggeredObjects.Array.data[1]'
       value: 

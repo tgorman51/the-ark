@@ -8,11 +8,15 @@ public class GameMenuManager : MonoBehaviour
     private CursorLockMode savedCursorLockMode;
 
     private InputAction _escAction;
-    
-    void Start()
+
+    void OnEnable()
     {
         _escAction = InputSystem.actions.FindAction("Esc");
         _escAction.performed += HandleEsc;
+    }
+    
+    void Start()
+    {
         menuObject.SetActive(false);
         savedCursorLockMode = Cursor.lockState;
     }

@@ -24,8 +24,38 @@ www.artstation.com/mgepm
 https://assetstore.unity.com/packages/3d/free-space-ships-37562
 
 
+TEXTURES
+Chip 005
+ambientCG
+https://ambientcg.com/a/Chip005
+
+Chip 001
+ambientCG
+https://ambientcg.com/a/Chip001
+
+
 SHADERS
 character effects (shaders)
 codeDog0
 game-dev-noob.itch.io/
 https://assetstore.unity.com/packages/vfx/shaders/character-effects-shaders-304307
+
+
+MUSIC
+"Lightless Dawn" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+"Mesmerizing Galaxy " Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+"Equatorial Complex " Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+
+SFX
+Old school alarm.mp3 by WaveAdventurer
+https://freesound.org/s/114060/
+License: Attribution 4.0
